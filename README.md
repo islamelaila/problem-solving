@@ -7,10 +7,12 @@
 | [0001-two-sum](https://github.com/islamelaila/problem-solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/islamelaila/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/islamelaila/problem-solving/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/islamelaila/problem-solving/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/islamelaila/problem-solving/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/islamelaila/problem-solving/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -32,4 +34,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/islamelaila/problem-solving/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/islamelaila/problem-solving/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
