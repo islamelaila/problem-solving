@@ -7,7 +7,7 @@ class Solution {
                 }
             }
         }
-                throw new IllegalArgumentException("No solution found");
+            return new int [] {}; 
     }
 
 } 
