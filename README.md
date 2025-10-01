@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/islamelaila/problem-solving/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/islamelaila/problem-solving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/islamelaila/problem-solving/tree/master/0217-contains-duplicate) |
+| [0643-maximum-average-subarray-i](https://github.com/islamelaila/problem-solving/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,8 @@
 | [0049-group-anagrams](https://github.com/islamelaila/problem-solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/islamelaila/problem-solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/islamelaila/problem-solving/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/islamelaila/problem-solving/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
